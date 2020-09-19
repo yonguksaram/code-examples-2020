@@ -1,0 +1,1 @@
+const superSkillExample = () => console.log('Hello world');
